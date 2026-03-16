@@ -60,7 +60,7 @@ cd ip-threat-checker
 Install required dependency:
 
 
-pip install requests
+pip install -r requirements.txt
 
 
 ---
